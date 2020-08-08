@@ -1,0 +1,2 @@
+# myDarpan
+We propose to have a gadget which is the reconciliation of various gadgets, the hardware part of this device involves a wearable safety locket and a wearable safety band. We have named this project as “DARPAN”. The total device additionally guarantees to give self-preservation application which encourages women to get away from critical situations. This framework can be utilized at places like bus stations, railroad stations, workplaces, pathways, shopping centres, markets, and so forth.
